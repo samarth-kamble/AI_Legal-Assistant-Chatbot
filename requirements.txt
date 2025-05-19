@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+torch
+transformers
+whisper
+langchain
+langchain-community
+langchain-chroma
+pdfplumber
+chromadb
+requests
