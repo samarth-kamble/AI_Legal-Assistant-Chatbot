@@ -2,10 +2,11 @@ streamlit
 python-dotenv
 torch
 transformers
-whisper
+openai-whisper
 langchain
 langchain-community
 langchain-chroma
 pdfplumber
-chromadb
+chromadb==0.4.24
 requests
+protobuf==4.23.4
